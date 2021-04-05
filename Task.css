@@ -1,0 +1,217 @@
+.button {
+  border: 0;
+  border-radius: 30px;
+  box-shadow: 0px 3px 4px 0px #888888;
+  text-transform: uppercase;
+  width: fit-content;
+  padding: 0.3rem 1.5rem;
+  background-color: white;
+  color: #363636;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  margin-right: 0.25rem;
+}
+.button:hover {
+  background-color: #28df99;
+  color: white;
+  cursor: pointer;
+}
+.destine {
+  width: 275px;
+}
+.upper {
+  align-items: center;
+  margin-top: 2px;
+  width: 200px;
+  margin-left: 18px;
+  margin-top: 10px;
+  display: flex;
+}
+.saves {
+  margin-left: 50px;
+  display: flex;
+}
+.wareH {
+  width: 267px;
+}
+.sched1 {
+  display: flex;
+  height: 42px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.sched2 {
+  display: flex;
+  height: 42px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.dates1 {
+  margin-right: 30px;
+  width: 150px;
+}
+.dates2 {
+  margin-right: 30px;
+  width: 150px;
+}
+.pack {
+  display: flex;
+  width: 285px;
+  margin-left: 20px;
+}
+.pack1 {
+  margin-right: 30px;
+}
+.transpo {
+  width: 268px;
+}
+
+.button-moveTask {
+  border: 0;
+  border-radius: 30px;
+  box-shadow: 0px 3px 4px 0px #888888;
+  text-transform: uppercase;
+  width: fit-content;
+  background-color: white;
+  color: #363636;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  border-radius: 0.25rem;
+  margin-right: 0.25rem;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  padding: 0.3rem 0.5rem;
+}
+.button-moveTask1 {
+  border: 0;
+  border-radius: 30px;
+  box-shadow: 0px 3px 4px 0px #888888;
+  text-transform: uppercase;
+  width: fit-content;
+  background-color: white;
+  color: #363636;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  border-radius: 0.25rem;
+  margin-right: 20px;
+  margin-left: 4px;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  padding: 0.3rem 0.5rem;
+}
+.button-moveTask:hover {
+  background-color: #28df99;
+  color: white;
+  cursor: pointer;
+}
+.button-moveTask1:hover {
+  background-color: #28df99;
+  color: white;
+  cursor: pointer;
+}
+
+.button-delete {
+  border: 0;
+  border-radius: 30px;
+  box-shadow: 0px 3px 4px 0px #888888;
+  text-transform: uppercase;
+  width: fit-content;
+  padding: 0.3rem 1.5rem;
+  background-color: white;
+  color: #363636;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  margin-left: 1px;
+}
+.button-delete:hover {
+  background-color: #ff5252;
+  color: white;
+  cursor: pointer;
+}
+.task {
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: flex-end;
+  background-color: white;
+  border-radius: 0.25rem;
+  width: 340px;
+}
+
+form {
+  width: 320px;
+  margin: 0 0.25rem;
+  height: 415px;
+}
+.task collapsedTask {
+  width: 100px;
+}
+.input {
+  background-color: transparent;
+  border: 1px solid;
+  border-radius: 0.25rem;
+  color: #888888;
+  resize: none;
+  display: flex;
+  font-family: "Kanit", sans-serif;
+}
+.title {
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  width: 270px;
+  font-size: 1.1rem;
+  margin-left: 20px;
+}
+.date {
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  width: 100%;
+  font-size: 1.1rem;
+}
+
+.date1 {
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  width: 100%;
+  font-size: 1.1rem;
+}
+.time {
+  padding: 0.5rem;
+}
+.package {
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  width: 100%;
+  font-size: 1.1rem;
+}
+.warehouse {
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  width: 100%;
+  margin-left: 20px;
+  font-size: 1.1rem;
+}
+.size {
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  width: 100%;
+
+  font-size: 1.1rem;
+}
+.mode {
+  margin-bottom: 0.5rem;
+  padding-bottom: 10px;
+  width: 100%;
+  margin-left: 20px;
+  font-size: 1.1rem;
+}
+.eta {
+  margin-bottom: 0.5rem;
+  margin-left: 20px;
+  padding: 0.5rem;
+  width: 270px;
+  font-size: 1.1rem;
+}
